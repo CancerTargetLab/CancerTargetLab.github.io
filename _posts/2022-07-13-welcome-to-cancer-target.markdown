@@ -6,4 +6,4 @@ categories: about
 ---
 This is a placeholder for a page about the cancer target group.
 
-<img src="https://cancertargetlab.github.io/assets/images/logo-lund-university_transparent_col.png">
+<img src="{{site.url}}/assets/images/logo-lund-university_transparent_col.png" style="display: block; margin: auto;" />
