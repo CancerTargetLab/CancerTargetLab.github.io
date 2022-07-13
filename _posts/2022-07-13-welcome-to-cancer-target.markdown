@@ -6,4 +6,4 @@ categories: about
 ---
 This is a placeholder for a post about the cancer target group.
 
-![logo-lund-university_transparent_col](https://user-images.githubusercontent.com/51265018/178807246-39de5c80-062c-40a0-bc20-ebd5803a7928.png)
+![logo-lund-university_transparent_col](https://user-images.githubusercontent.com/51265018/178807246-39de5c80-062c-40a0-bc20-ebd5803a7928.png {width=25px height=33px})
